@@ -20,6 +20,7 @@ function johnLennonFacts(facts) {
 function iLoveTheBeatles() {
   
 }
+/*
 const facts = [
   "He was the last Beatle to learn to drive",
   "He was never a vegetarian",
@@ -28,3 +29,4 @@ const facts = [
 ];
 
 console.log(johnLennonFacts(facts));
+*/
