@@ -10,7 +10,8 @@ function johnLennonFacts(facts) {
   let n = facts.length;
   
   while(n > 0) {
-    facts[i] = facts[i] + "!!!";
+    facts[n] = facts[n] + "!!!";
+    n--;
   }
   
   return facts;
