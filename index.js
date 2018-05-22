@@ -10,7 +10,7 @@ function johnLennonFacts(facts) {
   let n = facts.length;
   
   while(n > 0) {
-    facts[i] = facts[i] + " ! ! !"
+    facts[i] = facts[i] + "!!!";
   }
   
   return facts;
@@ -19,3 +19,4 @@ function johnLennonFacts(facts) {
 function iLoveTheBeatles() {
   
 }
+
