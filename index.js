@@ -11,7 +11,9 @@ function johnLennonFacts(facts) {
   
   while(n > 0) {
     facts[n] = facts[n] + "!!!";
+    console.log(n);
     n--;
+    console.log(n);
   }
   
   return facts;
@@ -20,7 +22,7 @@ function johnLennonFacts(facts) {
 function iLoveTheBeatles() {
   
 }
-/*
+
 const facts = [
   "He was the last Beatle to learn to drive",
   "He was never a vegetarian",
@@ -29,4 +31,3 @@ const facts = [
 ];
 
 console.log(johnLennonFacts(facts));
-*/
